@@ -65,7 +65,7 @@ AUTH_USERS COMMANDS:
 Deploy your own bot on `heroku`
 
 `Warning` - There are two different branches available, go to [main](https://github.com/vasusen-code/VIDEOconvertor/tree/main) branch if you need bot for your `personal` needs.
-  
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/joel710/VIDEOconvertor_essaie)
 `Fork and Click on Deploy in your fork`
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="250""/></a></p>
 
